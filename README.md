@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ernesto Herrera</h1>
 <h3 align="center">A passionate frontend developer from Nicaragua</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernerdo&label=Profile%20views&color=0e75b6&style=flat" alt="ernerdo" /> </p>
 
