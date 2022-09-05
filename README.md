@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ernesto Herrera</h1>
-<h3 align="center">A passionate frontend developer from Nicaragua</h3>
+<h3 align="center">A passionate full stack developer from Nicaragua</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=5040&lines=Full+Stack+Developer"></a>
 </p>
