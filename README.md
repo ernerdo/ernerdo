@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_ernerdo" target="blank"><img src="https://img.shields.io/twitter/follow/_ernerdo?logo=twitter&style=for-the-badge" alt="_ernerdo" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ernerdo.notion.site/](https://ernerdo.notion.site/)
+- 👨‍💻 All of my projects are available at [https://ernerdo.com/](https://ernerdo.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
