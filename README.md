@@ -12,7 +12,7 @@
 
 ## 💡 My Skills
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 
 
@@ -29,7 +29,7 @@
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a> 
   <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 ### Devops  
@@ -51,7 +51,7 @@
 
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
