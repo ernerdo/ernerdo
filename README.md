@@ -10,10 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://ernerdo.com/](https://ernerdo.com/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ernerdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ernerdo" height="30" width="40" /></a>
-<a href="https://twitter.com/_ernerdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ernerdo" height="30" width="40" /></a>
-</p>
+
 
 ## 💡 My Skills
 
