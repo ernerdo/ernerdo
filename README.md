@@ -4,6 +4,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=5040&lines=Full+Stack+Developer"></a>
 </p>
 
+Dear potential client and future business associate, I humbly ask you for a few minutes of your time invested in reading these lines, with this literary expression I intend two main objectives Number one: to help you make the best business decision for the web development of your project or assignment and number two: that this decision is based on all the added value that I can provide to your business as a development professional, with this brief summary of my professional life, my values, my standards, my quality standards, it is my goal main that you are a little closer to hiring one of the best developers in Latin America and a member of the new wave of high-quality web developers in Latin America.
+
+Thank you for staying with me on this journey about my development and personal evolution. I know that at this point, you are more ready to make the right decision for your project. These lines have the sole purpose of facilitating your decision and helping you to be successful through me in your project.
+
+
+
 - Top projects
   - Movies TMDB -> https://movies.ernerdo.com/
   - Personal Website -> https://www.ernerdo.com/
@@ -75,24 +81,25 @@
 ### 🔥 &nbsp; My GitHub Stats :
 <div align="center" style="display: flex; flex-direction: column; gap: 20px; width: 100%;">
   <div style="width: 100%;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=ernerdo&show_icons=true&count_private=true&hide_border=true&theme=dracula" 
-      alt="GitHub Stats" 
+    <img
+      src="https://streak-stats.demolab.com?user=ernerdo&theme=dracula&hide_border=true" 
+      alt="GitHub Streak" 
       style="width: 100%;"
     />
   </div>
 
   <div style="display: flex; justify-content: space-between; gap: 20px; width: 100%;">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernerdo&layout=compact&theme=dracula" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernerdo&layout=compact&theme=dracula&hide_border=true" 
       alt="Top Languages" 
       style="width: 48%;"
     />
     <img 
-      src="https://streak-stats.demolab.com?user=ernerdo&theme=dracula" 
-      alt="GitHub Streak" 
+      src="https://github-readme-stats.vercel.app/api?username=ernerdo&show_icons=true&count_private=true&hide_border=true&theme=dracula" 
+      alt="GitHub Stats" 
       style="width: 48%;"
     />
+    
   </div>
 </div>
 
