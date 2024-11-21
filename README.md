@@ -45,6 +45,15 @@
 </td><td valign="top" width="33%">
 
 
+### Devops  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  </a> 
+
+
+
+</td><td valign="top" width="33%">
+
+
 
 ### Tools  
 <div align="center">  
