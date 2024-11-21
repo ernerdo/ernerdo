@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ernerdo.com/](https://ernerdo.com/)
 
-<h3 align="left">Connect with me:</h3>
 
 
 ## 💡 My Skills
