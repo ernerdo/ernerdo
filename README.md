@@ -74,8 +74,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ernerdo&show_icons=true&count_private=true&hide_border=true&theme=dracula"     align="center" style="width: 100%" />
 </div>  
 <br/>  
-<div >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernerdo&layout=compact&theme=dracula" align="center" style="width: 50%" />
+<div align="center" gap="40px" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernerdo&layout=compact&theme=dracula" align="center" style="width: 40%" />
    <img src="https://streak-stats.demolab.com?user=ernerdo&theme=dracula" alt="GitHub Streak" style="width: 50%" />
 </div> 
 <br/>  
