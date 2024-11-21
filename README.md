@@ -69,25 +69,28 @@
 
 
 ### 🔥 &nbsp; My GitHub Stats :
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ernerdo&show_icons=true&count_private=true&hide_border=true&theme=dracula" 
-    alt="GitHub Stats" 
-    style="max-width: 100%;"
-  />
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; width: 100%;">
+  <div style="width: 100%;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=ernerdo&show_icons=true&count_private=true&hide_border=true&theme=dracula" 
+      alt="GitHub Stats" 
+      style="width: 100%;"
+    />
+  </div>
 
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; width: 100%;">
+  <div style="display: flex; justify-content: space-between; gap: 20px; width: 100%;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernerdo&layout=compact&theme=dracula" 
       alt="Top Languages" 
-      style="max-width: 45%; min-width: 250px;"
+      style="width: 48%;"
     />
     <img 
       src="https://streak-stats.demolab.com?user=ernerdo&theme=dracula" 
       alt="GitHub Streak" 
-      style="max-width: 45%; min-width: 250px;"
+      style="width: 48%;"
     />
   </div>
 </div>
+
 
 
