@@ -70,6 +70,7 @@
 
 ### 🔥 &nbsp; My GitHub Stats :
 <div align="center" gap="40px">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ernerdo&theme=dracula" alt="GitHub Streak" style="width: 100%" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=ernerdo&show_icons=true&count_private=true&hide_border=true&theme=dracula"     align="center" style="width: 100%" />
 </div>  
 <br/>  
@@ -77,7 +78,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernerdo&layout=compact&theme=dracula" align="center" style="width: 40%" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ernerdo&theme=dracula" align="center" style="width: 47%" />
 </div> 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ernerdo&theme=dracula" alt="GitHub Streak" /></a>
 <br/>  
 
