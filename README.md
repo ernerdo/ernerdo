@@ -76,6 +76,8 @@
 <div >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernerdo&layout=compact&theme=dracula" align="center" style="width: 40%" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ernerdo&theme=dracula" align="center" style="width: 47%" />
-</div>  
+</div> 
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ernerdo&theme=dracula" alt="GitHub Streak" /></a>
 <br/>  
 
