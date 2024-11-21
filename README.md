@@ -78,7 +78,7 @@
     />
   </div>
 
-  <div style="display: flex; justify-content: space-between; gap: 20px; width: 100%;">
+  <div style="display: flex; justify-content: space-between;align-items:center; gap: 20px; width: 100%;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernerdo&layout=compact&theme=dracula" 
       alt="Top Languages" 
