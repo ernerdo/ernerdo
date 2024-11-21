@@ -5,11 +5,11 @@
 </p>
 
 - Top projects
-- Movies TMDB -> https://movies.ernerdo.com/
-- Personal Website -> https://www.ernerdo.com/
-- Trello Clon -> https://angular-trello.ernerdo.com/login
-- Cryto exchange -> https://exchange-ernerdo.netlify.app/
-- 👨‍💻 All of my projects are available at [[https://ernerdo.com/](https://www.ernerdo.com/portfolio)]([https://ernerdo.com/](https://www.ernerdo.com/portfolio))
+  - Movies TMDB -> https://movies.ernerdo.com/
+  - Personal Website -> https://www.ernerdo.com/
+  - Trello Clon -> https://angular-trello.ernerdo.com/login
+  - Cryto exchange -> https://exchange-ernerdo.netlify.app/
+- 👨‍💻 All of my projects are available at [https://ernerdo.com/](https://www.ernerdo.com/portfolio)
 
 
 
